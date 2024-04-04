@@ -1,3 +1,9 @@
+
+
+
+
+   <img src="https://github.com/dhiraj19999/MeetUp/assets/106136277/ee3b724b-1d18-46d7-80b7-76edc4452cf5"/>
+
 ## <a name="introduction">🤖 Introduction</a>
 
 MeetUp Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
